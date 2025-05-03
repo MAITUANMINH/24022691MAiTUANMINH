@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1746205754 source:d:\baitaplon2\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"Player.h"
+	"Bullet.h"
+	"Enemy.h"
+	"Collision.h"
+	"graphics.h"
+
+1745331217 source:d:\baitaplon2\bullet.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"Bullet.h"
+
+1745331217 d:\baitaplon2\bullet.h
+	<SDL.h>
+
+1746206054 source:d:\baitaplon2\enemy.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"Enemy.h"
+
+1746206774 d:\baitaplon2\enemy.h
+	<SDL.h>
+
+1745332707 source:d:\baitaplon2\player.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"Player.h"
+
+1745332707 d:\baitaplon2\player.h
+	<SDL.h>
+
+1745331217 d:\baitaplon2\collision.h
+	<SDL.h>
+
+1745335744 d:\baitaplon2\graphics.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1745335364 source:d:\baitaplon2\graphics.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+
